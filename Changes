@@ -1,0 +1,8 @@
+Revision history for POE-Component-WWW-Google-Calculator
+
+0.02  Sun Feb 10 2:30:00 2008
+    - fixed up some distro issues, added examples/calc.pl
+
+0.01  Sat Jan 12 17:11:39 2008
+        First version, released on an unsuspecting world.
+
